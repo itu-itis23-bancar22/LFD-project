@@ -20,9 +20,4 @@ We use the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset consi
 - **One-class model:** **Deep SVDD** which minimizes the volume of a hypersphere around normal features in latent space
 - **Baselines:** One-Class SVM and Isolation Forest (on extracted features)
 
-## ⚙️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/LFD-project.git
-   cd LFD-project
